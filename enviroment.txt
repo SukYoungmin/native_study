@@ -18,3 +18,5 @@ http://developer.android.com/sdk/index.html#download
 # Android SDK インストール
 http://techfun.cc/android/mac-android-sdk-install.html
 
+# android emulator setting
+start android studio -> Tools -> Android -> AVD Manager -> Android Virtual Devices Tab Menu -> Add or Edit or Delete
