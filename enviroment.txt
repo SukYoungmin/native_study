@@ -23,3 +23,6 @@ start android studio -> Tools -> Android -> AVD Manager -> Android Virtual Devic
 
 # android emulator settings2
 http://www.auraline.co.jp/tech-lab/?p=211
+
+# android programing manual
+http://donzbox.tistory.com/132
