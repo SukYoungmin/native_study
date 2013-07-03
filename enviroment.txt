@@ -1,0 +1,20 @@
+http://babcider.tistory.com/27
+http://thdev.net/339
+
+http://www.forest.impress.co.jp/docs/news/20130516_599609.html
+
+# android studio download
+http://developer.android.com/sdk/installing/studio.html#download
+
+# android studio review
+http://proinlab.com/wordpress/?p=734
+
+# android studio installation
+http://androidhuman.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-IDE-Android-Studio
+
+# ADT ダウンロード
+http://developer.android.com/sdk/index.html#download
+
+# Android SDK インストール
+http://techfun.cc/android/mac-android-sdk-install.html
+
