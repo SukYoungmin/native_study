@@ -26,3 +26,6 @@ http://www.auraline.co.jp/tech-lab/?p=211
 
 # android programing manual
 http://donzbox.tistory.com/132
+
+# android beginner manual
+http://www.androidpub.com/91035
